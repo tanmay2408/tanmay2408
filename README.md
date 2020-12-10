@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tanmay Nagepatil</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanamy2408&label=Profile%20views&color=0e75b6&style=flat" alt="tanamy2408" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmay2408&label=Profile%20views&color=0e75b6&style=flat" alt="tanmay2408" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanamy2408" alt="tanamy2408" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanmay2408" alt="tanmay2408" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/braindead_2408" target="blank"><img src="https://img.shields.io/twitter/follow/braindead_2408?logo=twitter&style=for-the-badge" alt="braindead_2408" /></a> </p>
 
