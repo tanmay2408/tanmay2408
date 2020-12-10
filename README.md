@@ -1,4 +1,4 @@
-<h1 align="center">Hola Hi Namaste  👋, I'm Tanmay Nagepatil</h1>
+<h1 align="center"> Namaste Hola Hi 👋, I'm Tanmay Nagepatil</h1>
 <h3 align="center">A Passionate And Always Learning Developer From India. 🇮🇳 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmay2408&label=Profile%20views&color=0e75b6&style=flat" alt="tanmay2408" /> </p>
